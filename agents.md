@@ -70,3 +70,4 @@
 - 修改共用檔案前先讀最新內容，避免覆蓋其他 Agent 的變更
 - 所有回應與文件使用繁體中文
 - 修改前先確認計畫，優先保留原有資料結構
+- 本資料夾在雲端硬碟裡，GDrive 上的 git 需設 `git config windows.appendAtomically false`，否則會遇到寫入錯誤
